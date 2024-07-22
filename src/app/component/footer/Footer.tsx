@@ -7,7 +7,7 @@ interface FooterProps {
 }
 const Footer = ({ color = 'bg-white' }: FooterProps) => {
   return (
-    <footer id="footer" className={`w-full py-8 text-xs font-normal ${color}`}>
+    <footer id="must479" className={`w-full py-8 text-xs font-normal ${color}`}>
       <div className="flex flex-row justify-center items-center gap-2 mb-3">
         <a
           href="https://github.com/ethereum-optimism/ecosystem-contributions"

@@ -9,7 +9,7 @@ effort: "Medium"
 skill-sets: ["Front End Development", "Back End Development", "Full Stack Development", "Smart Contract Development"]
 labels: ["Attestations",  "Consumer dApps", "Smart Contracts", "Accessibility/Transparency"]
 contributions:
-  contributors: ["@MaximeServais77(Twitter)"]
+  contributors: ["@sayungboss(Twitter)"]
   discussion-link: "https://github.com/ethereum-optimism/ecosystem-contributions/discussions/177"
   links: ["https://www.ethereum-ecosystem.com/apps"]
   execution-status: "in-progress-open"

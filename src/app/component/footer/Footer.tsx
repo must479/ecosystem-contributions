@@ -17,7 +17,7 @@ const Footer = ({ color = 'bg-white' }: FooterProps) => {
           <GitHubIcon></GitHubIcon>
         </a>
         <a
-          href="https://twitter.com/Optimism"
+          href="https://twitter.com/sayungboss"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -35,7 +35,7 @@ const Footer = ({ color = 'bg-white' }: FooterProps) => {
           <span>By</span>
 
           <a
-            href="https://twitter.com/catalyzt_tech"
+            href="https://twitter.com/sayungboss"
             className="text-[#865CBB] hover:underline flex items-center"
             target="_blank"
             rel="noopener noreferrer"
